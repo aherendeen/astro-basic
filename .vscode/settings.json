@@ -1,0 +1,5 @@
+{
+    "iridium.npm.packageManager": "bun",
+    "npm.packageManager": "bun",
+    "npm.scriptRunner": "bun"
+}
